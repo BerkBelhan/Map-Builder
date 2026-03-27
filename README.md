@@ -1,10 +1,11 @@
-Here’s a clean, professional README based on your website content:
-
 ---
 
 # Guide-AR
 
 **Indoor Navigation Reimagined with Augmented Reality**
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Guide--AR-blue?style=for-the-badge\&logo=google-chrome)](https://berkbelhan.github.io/ar-navigation-senior-project/)
+[![Project Page](https://img.shields.io/badge/Project%20Page-Visit-green?style=for-the-badge\&logo=github)](https://berkbelhan.github.io/ar-navigation-senior-project/)
 
 Guide-AR is a spatial computing solution designed for seamless indoor navigation using augmented reality (AR). Built for **Meta Quest 3** and **mobile devices**, it leverages real-time SLAM (Simultaneous Localization and Mapping) to deliver intuitive, hands-free navigation experiences.
 
@@ -118,8 +119,9 @@ Contributions are welcome! If you'd like to improve Guide-AR:
 
 ## 📬 Contact
 
-For collaboration or inquiries, please use the **Connect** section of the project platform.
+Click the badge above or visit the **Project Page** to get in touch.
 
 ---
 
-If you want, I can tailor this README for GitHub (badges, screenshots, demo GIFs) or make it more technical.
+
+
